@@ -1,0 +1,8 @@
+.circleci
+.storybook
+assets
+scripts
+stories
+storybook-static
+dist
+src/__image_snapshots__/
